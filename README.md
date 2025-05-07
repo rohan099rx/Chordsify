@@ -75,5 +75,5 @@ Chordisify lets you upload any song and instantly get accurate guitar chords and
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/chordisify.git
+git clone https://github.com/rohan099rx/chordisify.git
 cd chordisify

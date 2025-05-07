@@ -2,7 +2,7 @@
 Chordisify lets you upload any song and instantly get accurate guitar chords and tabs. Perfect for beginners and pros, it supports MP3/WAV files, offers downloadable sheets, and a clean interface. Play your favorite songs faster—just upload, discover, and jam with Chordisify!
 
 <p align="center">
-  <img src="https://your-image-url.com/chordisify-banner.png" alt="Chordisify Banner" width="600"/>
+  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-2a3c-61f7-ae48-28533da333ec/raw?se=2025-05-07T10%3A38%3A11Z&sp=r&sv=2024-08-04&sr=b&scid=a379a4d7-668d-554e-9835-c4aaf49ea6c7&skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-07T02%3A19%3A33Z&ske=2025-05-08T02%3A19%3A33Z&sks=b&skv=2024-08-04&sig=482i01x5PlBT0uLXYmGdjvi%2B1jQrHWPfAVMitQymqrI%3D" alt="Chordisify Banner" width="600"/>
 </p>
 
 <h1 align="center">🎵 Chordisify</h1>
